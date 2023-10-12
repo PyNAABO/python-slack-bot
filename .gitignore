@@ -1,5 +1,1 @@
-venv
-.*
-*.lock
-*.toml
-*.nix
+test.*
