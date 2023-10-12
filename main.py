@@ -1,5 +1,6 @@
 """
 https://github.com/techwithtim/Slack-Bot/blob/main/bot.py
+By Tech With Tim
 """
 import os
 import slack
